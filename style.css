@@ -1,0 +1,40 @@
+body{
+background-color: rgb(2, 2, 48);
+color:antiquewhite; 
+font-family: "Mooli", sans-serif;
+display: flex;
+justify-content: center;
+align-items:center;
+height: 700px;
+margin: 100px;
+
+
+}
+
+
+button {
+background-color: rgb(162, 65, 226);
+color: antiquewhite;
+font-family: "Mooli", sans-serif;
+
+}
+
+.passo{
+    display: none;
+    
+    }
+    
+    .passo.ativo{
+        display: block;
+    
+    }
+    
+main {
+    text-align: center;
+    max-width: 70%;
+}
+
+img{
+    max-width: 90%;
+   
+}
